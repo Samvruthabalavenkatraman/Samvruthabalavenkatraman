@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Samvruthabalavenkatraman
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning python
-- 
 
 
 
